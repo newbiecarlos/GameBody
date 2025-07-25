@@ -57,4 +57,59 @@ Gamebody Interactive player
 关于广告：目前APP是免费使用。请点击广告让我们有一些收入。如果您能请我们喝杯咖啡或者赞助我们，我们很乐意提供VIP版/去广告激活工作：发送捐助截图及CDKEY到 cssn99@gmail.com邮箱， 72小时内我们将邮件回复接活码，复制粘贴到对应的框内点击激活即可。
 
 
+Gamebody Interactive player
+I. Introduction
+We have developed an interactive DIY program app called Gamebody, which is a player that controls audio and video through motion sensing. Users can program interactive logic and upload custom interactive content. It features a highly open architecture.
 
+Our original intention was to create an intelligent player program that can cheer you on based on your movement rhythm and quantity when using fitness equipment. Now, you can combine it with almost anything - dumbbells, dolls, or other objects. Enjoy playing!
+
+Core Functions: Realize multi-dimensional AI interaction such as movement, touch, and voice for sports equipment through mobile phone/tablet sensors (gyroscope, accelerometer, magnetometer).
+
+Compatibility: Compatible with Android (supports local DIY) and iOS (under development), covering mainstream mobile phones and tablet devices.
+
+Technical Advantages: AI content generation tools + sensor data fusion make sports equipment "come alive".
+
+II. Usage Method
+1. Download the APP
+Download in China: Link (to be uploaded)
+
+International cloud disk download: Link (to be uploaded)
+
+Since ours is an APP that allows users to update materials and interactive logic offline, the Android system will better support such offline updates. The Apple iOS system is relatively closed and does not support it, so currently only the Android system is supported.
+
+2. Installation
+Connect your phone to the computer: Use a prepared data cable, insert one end into the phone's data interface, and the other end into the computer's USB interface. After connecting the phone to the computer, a prompt may pop up, such as asking whether to allow USB debugging, or to select a connection mode (such as charging, file transfer (MTP), photo transfer (PTP), etc.). Select the "File Transfer (MTP)" mode. If there is no prompt, you need to enable the "USB Debugging" function on your phone: Enter the "Settings" option. Due to differences in phone brands and system versions, the location of "USB Debugging" may vary. Generally, in "Settings" - "About Phone", click "Version Number" multiple times in a row to enable "Developer Options". Then find "USB Debugging" in "Developer Options" and enable it. For example, for Huawei phones, the path is roughly "Settings" - "System" - "About Phone" - click "Version Number" multiple times to activate Developer Options - return to "System" to find "Developer Options" - enable "USB Debugging".
+
+Open the file management tool on the computer: In Windows system, you can enter through "This PC"; in Apple Mac system, you can enter through "Finder". Find the folder where the downloaded APP installation package (APK file) is located.
+
+Copy the APK file to the phone storage: Select the APK file, and copy (shortcut key Ctrl + C or Command + C) and paste (shortcut key Ctrl + V or Command + V) to paste the APK file into the phone storage device. Generally, you can choose to paste it into the root directory of the phone's "Internal Storage" or "SD Card", or create a special folder for storage for easy 查找。For example, create a folder named "APK Installation Packages" and paste the APK file into it.
+
+Install the APP on the phone: Disconnect the phone from the computer, open the "File Management" app on the phone, and find the APK file just copied to the phone. Click the APK file, and the phone will pop up an installation prompt, such as prompting the source of the app and the required permissions. After confirming, click the "Install" button. The installation process may take some time. After installation, you can find and open the app on the phone's home screen.
+
+3. Open the APP
+After opening the APP, click anywhere on the standby interface
+
+Enter the menu page and select the one in the upper right corner
+
+Select menu content and start experiencing
+
+4. APP Interface
+(To be updated)
+
+5. Instructions for Customizing APP Content
+
+Programming method: Set interactive logic and materials through Excel. The entire programming logic is: Monitor through [Trigger] > Judge [Logical Conditions] > Load and play various [Action] effects.
+
+For specific tutorials, please refer to the video and instruction document: Video address
+
+If you want to modify or create your own MOD, you need to have a certain Excel foundation. The rule settings are relatively simple, not complicated, at least simpler than programmer programming.
+
+Material description:
+
+Complete the editing of the DB.xlsx file and corresponding materials
+Import into the packaging program, and a custom-named XXX.data file will be generated
+Copy the generated material package XXX.data file into the Android/data/com.gamebody.app/files/assets/temp/ directory
+Turn on the device and enjoy the game
+
+6. Other Instructions
+Regarding advertisements: The APP is currently free to use. Please click on the advertisements to help us generate some income. If you can buy us a cup of coffee or sponsor us, we will be happy to provide VIP version/ad-free activation: Send the donation screenshot and CDKEY to cssn99@gmail.com, and we will reply with the activation code via email within 72 hours. Copy and paste it into the corresponding box and click activate.
