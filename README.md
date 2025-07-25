@@ -33,16 +33,16 @@ Gamebody Interactive player
 
 3、打开APP
 打开APP之后点击待机界面任意位置
-
+![图片1](https://github.com/newbiecarlos/GameBody/blob/main/%E5%9B%BE%E7%89%871.png)
 进入菜单页面，选择右上角的
-
+![图片2](https://github.com/newbiecarlos/GameBody/blob/main/%E5%9B%BE%E7%89%872.png)
 选择菜单内容，开始体验
 
 4、APP界面
 （待更新）
 
 5、APP自定义内容说明
-
+![图片3](https://github.com/newbiecarlos/GameBody/blob/main/%E5%9B%BE%E7%89%873.png)
 编程方式：通过excel进行交互逻辑\素材设置。整个编程逻辑是：通过【触发器】监听 > 进行【逻辑条件】判断 > 加载播放等各种【动作】效果。
 具体教程详见视频和说明文档：视频地址
 如果要想修改/自己制作MOD，轻具备一定的EXCEL基础，规则设置相对简单，并不复杂，至少比程序员编程简单。
